@@ -1,0 +1,7 @@
+https://docs.qmk.fm/#/newbs_getting_started
+
+- edit e.g qmk_firmware\keyboards\gmmk\pro\rev1\ansi\keymaps\buzdolapci\keymap.c
+- Replace sensitive text
+- QMK MSYS > qmk compile
+- gmmk pro flash reset combination is FN + Del
+- QMK TOOLBOX > flash
